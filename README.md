@@ -3,7 +3,8 @@
 # 👋 Hi, I'm Roberto de Farias
 
 I was born in Brazil and I’m also a Canadian citizen, open to professional opportunities both in **Canada** and **Brazil** — as well as **remote-first roles worldwide**.  
-Fluent in **English, French, Portuguese, and Spanish**, I thrive in multicultural environments and bring an international perspective to every project.
+In addition, I am **100% open to relocation across Europe**, excited to embrace new cultures, environments, and challenges.  
+Fluent in **English, French, Portuguese, and Spanish**, I thrive in multicultural settings and I’m also open to learning **new languages** if required.
 
 I am open to both **remote-first roles** and **on-site opportunities**.  
 I value remote work because it allows me to dedicate my best energy to projects, avoid unnecessary commuting stress, and continue specializing through ongoing studies.  
