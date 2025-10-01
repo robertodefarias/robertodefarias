@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Roberto de Farias
 
-<!--
-**robertodefarias/robertodefarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the founder of my own personal brand in the field of **Archetypes and Human Design**, which I built entirely by myself — from branding and digital strategy to the development of online platforms.  
+Thanks to this work, I’ve reached **40,000+ students and clients in 26 countries**, building a strong international reputation and delivering high-impact educational content.
 
-Here are some ideas to get you started:
+Currently, I am expanding my skills in **Web Development and Artificial Intelligence** to create innovative digital solutions that merge **technology + self-knowledge** for personal transformation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What you’ll find here
+- **Web Development projects** (HTML, CSS, JS, Python, React, Node).  
+- Applications integrated with **BodyGraph / Archetype Mapping APIs**.  
+- Prototypes of **AI applied to Human Design**.  
+- Interactive dashboards and automations to enhance user experience.
+
+---
+
+## 🌎 Connect with me
+- 🌐 [Official Website](https://www.robertodefarias.com.br)  
+- 🌐 [Archetypes Consultancy](https://www.arquetipos.com.br)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/robertodefarias/)  
+
+---
+
+My approach lies at the intersection of cutting-edge technology, applied creativity, and human-centric understanding. I don't just solve technical problems; I craft solutions that propel business transformation.
