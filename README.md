@@ -1,38 +1,33 @@
-# Roberto de Farias | Web Development • AI Applications • Digital Marketing
+# Full-Stack Developer & AI Enthusiast
 
-# 👋 Hi, I'm Roberto de Farias
+👋 Building intelligent digital solutions with a global mindset.  
+Brazilian-Canadian professional open to roles in **Canada, Brazil, Europe, or remote-first teams worldwide**.  
+Fluent in **English, French, Portuguese, and Spanish**, I thrive in multicultural environments and excel at bridging communication gaps.
 
-I was born in Brazil and I am also a Canadian citizen, open to professional opportunities in **Canada**, **Brazil**, and **remote-first roles worldwide**.  
-I am also **fully open to relocation across Europe**, excited to contribute to multicultural teams and embrace new challenges.  
-Fluent in **English, French, Portuguese, and Spanish**, I am always willing to learn **new languages** when needed.
+As the founder of an international brand scaled to 40,000+ students across 26 countries, I single-handedly built full-stack digital platforms and growth strategies.  
+This entrepreneurial journey provided me with a rare 360° understanding of how technology drives business growth and user engagement.
 
-I value **remote work** for the focus and productivity it brings, while also appreciating **on-site collaboration** for the strong professional connections and networking it creates.  
-This balance allows me to dedicate my best energy to projects while continuing to grow through ongoing studies and specialization.
+My goal is to apply this expertise within a **forward-thinking company**, contributing my blend of **technical skill, business acumen, and user-centric design** to solve complex problems and deliver impactful results.
 
-I am the founder of my own international brand, scaled to 40,000+ students and clients in 26 countries.  
-I built everything myself — from branding and marketing strategy to full-stack digital platforms.  
-This experience gave me a solid foundation in both **technology** and **business growth**.
-
-📌 [See client testimonials and global impact](https://share.google/2tTcTwwPcdiFHXY42)
-
-Now, my goal is to **transition from entrepreneur to full-time contributor** within a forward-looking company, channeling my experience, discipline, and innovation mindset into a team environment.
+📌 [View client testimonials & global impact](https://share.google/2tTcTwwPcdiFHXY42)
 
 ---
 
-## 🚀 What you’ll find here
-- **Web Development projects** (HTML, CSS, JS, Python, React, Node)  
-- Applications integrated with **APIs and automation workflows**  
-- Prototypes of **AI-driven applications** in education and personal development  
-- Interactive dashboards and user-focused digital solutions  
+## 🔑 Value Proposition
+I operate at the intersection of **cutting-edge technology, strategic creativity, and human-centric design**.  
+I bring a powerful combination of **hands-on technical skills, proven business acumen, and a global perspective** to teams that value innovation and tangible impact.
 
 ---
 
-## 🌎 Connect with me
-- 🌐 [Official Website](https://www.robertodefarias.com.br)  
-- 🌐 [Archetypes Consultancy](https://www.arquetipos.com.br)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/robertodefarias/)  
+## 💻 Technical Focus
+- **Full-Stack Development**: HTML, CSS, JavaScript, Python, React, Node.js  
+- **AI & API Integration**: Specialized applications using BodyGraph/Archetype APIs  
+- **AI in Education**: Prototyping intelligent learning and personal development platforms  
+- **Data & UX**: Building interactive dashboards and automations that enhance user experience  
 
 ---
 
-My approach lies at the intersection of **technology, creativity, and human understanding**.  
-I’m ready to bring my **technical skills, business expertise, and multicultural perspective** into a company that values innovation.
+## 🌎 Connect With Me
+- 🌐 [Portfolio & Projects](https://www.robertodefarias.com.br)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/robertodefarias)  
+- 📌 [Client Testimonials](https://share.google/2tTcTwwPcdiFHXY42)  
