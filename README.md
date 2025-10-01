@@ -2,32 +2,28 @@
 
 # 👋 Hi, I'm Roberto de Farias
 
-I was born in Brazil and I’m also a Canadian citizen, open to professional opportunities both in **Canada** and **Brazil** — as well as **remote-first roles worldwide**.  
-In addition, I am **100% open to relocation across Europe**, excited to embrace new cultures, environments, and challenges.  
-Fluent in **English, French, Portuguese, and Spanish**, I thrive in multicultural settings and I’m also open to learning **new languages** if required.
+I was born in Brazil and I am also a Canadian citizen, open to professional opportunities in **Canada**, **Brazil**, and **remote-first roles worldwide**.  
+I am also **fully open to relocation across Europe**, excited to contribute to multicultural teams and embrace new challenges.  
+Fluent in **English, French, Portuguese, and Spanish**, I am always willing to learn **new languages** when needed.
 
-I am open to both **remote-first roles** and **on-site opportunities**.  
-I value remote work because it allows me to dedicate my best energy to projects, avoid unnecessary commuting stress, and continue specializing through ongoing studies.  
-At the same time, I also appreciate **in-person collaboration**, since it strengthens professional relationships, fosters team synergy, and expands networking opportunities.
+I value **remote work** for the focus and productivity it brings, while also appreciating **on-site collaboration** for the strong professional connections and networking it creates.  
+This balance allows me to dedicate my best energy to projects while continuing to grow through ongoing studies and specialization.
 
 I am the founder of my own international brand, scaled to 40,000+ students and clients in 26 countries.  
 I built everything myself — from branding and marketing strategy to full-stack digital platforms.  
-This experience gave me a strong foundation not only in **technology** but also in **business growth and user-centered solutions**.
+This experience gave me a solid foundation in both **technology** and **business growth**.
 
 📌 [See client testimonials and global impact](https://share.google/2tTcTwwPcdiFHXY42)
 
-While I am proud of this entrepreneurial journey, my current goal is to **transition from entrepreneur to full-time contributor within a forward-looking company**.  
-This is not about abandoning my project, but about **channeling my experience, discipline, and innovation mindset** into a team environment — helping an organization grow while continuing to expand my expertise in technology.
-
-Currently, I am focusing on **Web Development and Artificial Intelligence** to create innovative digital solutions that merge **technology + user-centered design** for personal and business transformation.
+Now, my goal is to **transition from entrepreneur to full-time contributor** within a forward-looking company, channeling my experience, discipline, and innovation mindset into a team environment.
 
 ---
 
 ## 🚀 What you’ll find here
 - **Web Development projects** (HTML, CSS, JS, Python, React, Node)  
-- Applications integrated with **BodyGraph / Archetype Mapping APIs**  
-- Prototypes of **AI-driven applications in education and personal development**  
-- Interactive dashboards and automations to enhance user experience  
+- Applications integrated with **APIs and automation workflows**  
+- Prototypes of **AI-driven applications** in education and personal development  
+- Interactive dashboards and user-focused digital solutions  
 
 ---
 
@@ -38,5 +34,5 @@ Currently, I am focusing on **Web Development and Artificial Intelligence** to c
 
 ---
 
-My approach lies at the intersection of **cutting-edge technology, applied creativity, and human-centric understanding**.  
-I’m ready to bring this combination of **technical skills, business growth expertise, and multicultural perspective** into a company that values innovation.
+My approach lies at the intersection of **technology, creativity, and human understanding**.  
+I’m ready to bring my **technical skills, business expertise, and multicultural perspective** into a company that values innovation.
