@@ -18,7 +18,7 @@ Currently, I am focusing on **Web Development and Artificial Intelligence** to c
 ## 🚀 What you’ll find here
 - **Web Development projects** (HTML, CSS, JS, Python, React, Node)  
 - Applications integrated with **BodyGraph / Archetype Mapping APIs**  
-- Prototypes of **AI applied to Human Design**  
+- Prototypes of **AI-driven applications in education and personal development**  
 - Interactive dashboards and automations to enhance user experience  
 
 ---
@@ -31,4 +31,4 @@ Currently, I am focusing on **Web Development and Artificial Intelligence** to c
 ---
 
 My approach lies at the intersection of **cutting-edge technology, applied creativity, and human-centric understanding**.  
-I don’t just solve technical problems; I craft solutions that **propel business transformation** — and I’m now ready to bring this experience into a company that values innovation and
+I’m ready to bring this combination of technical skills, business growth expertise, and human-centered vision into a company that values innovation.
