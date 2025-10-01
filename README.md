@@ -6,7 +6,7 @@ Founder of my own international brand, scaled to 40,000+ students and clients in
 I built everything myself — from branding and marketing strategy to full-stack digital platforms.  
 This experience gave me a strong foundation not only in **technology** but also in **business growth and user-centered solutions**.
 
-📌 [See client testimonials and credibility proof here](https://share.google/2tTcTwwPcdiFHXY42)
+📌 [See client testimonials and global impact](https://share.google/2tTcTwwPcdiFHXY42)
 
 While I am proud of this entrepreneurial journey, my current goal is to **transition from entrepreneur to full-time contributor within a forward-looking company**.  
 This is not about abandoning my project, but about **channeling my experience, discipline, and innovation mindset** into a team environment — helping an organization grow while continuing to expand my expertise in technology.
