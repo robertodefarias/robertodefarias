@@ -22,10 +22,22 @@ I bring a powerful combination of **hands-on technical skills, proven business a
 ---
 
 ## 💻 Technical Focus
-- **Full-Stack Development**: HTML, CSS, JavaScript, Python, React, Node.js  
-- **AI & API Integration**: Specialized applications using BodyGraph/Archetype APIs  
-- **AI in Education**: Prototyping intelligent learning and personal development platforms  
-- **Data & UX**: Building interactive dashboards and automations that enhance user experience  
+
+- **Front-End & Platforms (Strong Experience):**  
+  HTML, CSS, WordPress/Elementor — applied extensively in building and scaling real-world platforms that serve 40,000+ students and clients.
+
+- **Programming & Full-Stack (In Progress):**  
+  Currently learning and developing projects with JavaScript, Python, React, and Node.js — expanding my skills beyond front-end to full-stack applications.
+
+- **AI & API Integration (Applied Experience):**  
+  Real implementations of BodyGraph and Archetype Mapping APIs, creating personalized digital experiences and automated workflows.
+
+- **AI in Education (Exploration & Prototyping):**  
+  Designing prototypes for AI-driven personalization in learning and personal development contexts.
+
+- **Data & UX (Hands-On Projects):**  
+  Creating automations and developing dashboards aimed at improving user experience, business efficiency, and decision-making.
+
 
 ---
 
