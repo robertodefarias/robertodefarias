@@ -1,6 +1,8 @@
 # Full-Stack Developer & AI Enthusiast
 
-👋 Building intelligent digital solutions with a global mindset.  
+👋 Hi, I'm Roberto de Farias
+
+Building intelligent digital solutions with a global mindset.  
 Brazilian-Canadian professional open to roles in **Canada, Brazil, Europe, or remote-first teams worldwide**.  
 Fluent in **English, French, Portuguese, and Spanish**, I thrive in multicultural environments and excel at bridging communication gaps.
 
