@@ -2,7 +2,14 @@
 
 # 👋 Hi, I'm Roberto de Farias
 
-Founder of my own international brand, scaled to 40,000+ students and clients in 26 countries.  
+I was born in Brazil and I’m also a Canadian citizen, open to professional opportunities both in **Canada** and **Brazil** — as well as **remote-first roles worldwide**.  
+Fluent in **English, French, Portuguese, and Spanish**, I thrive in multicultural environments and bring an international perspective to every project.
+
+I am open to both **remote-first roles** and **on-site opportunities**.  
+I value remote work because it allows me to dedicate my best energy to projects, avoid unnecessary commuting stress, and continue specializing through ongoing studies.  
+At the same time, I also appreciate **in-person collaboration**, since it strengthens professional relationships, fosters team synergy, and expands networking opportunities.
+
+I am the founder of my own international brand, scaled to 40,000+ students and clients in 26 countries.  
 I built everything myself — from branding and marketing strategy to full-stack digital platforms.  
 This experience gave me a strong foundation not only in **technology** but also in **business growth and user-centered solutions**.
 
@@ -11,7 +18,7 @@ This experience gave me a strong foundation not only in **technology** but also 
 While I am proud of this entrepreneurial journey, my current goal is to **transition from entrepreneur to full-time contributor within a forward-looking company**.  
 This is not about abandoning my project, but about **channeling my experience, discipline, and innovation mindset** into a team environment — helping an organization grow while continuing to expand my expertise in technology.
 
-Currently, I am focusing on **Web Development and Artificial Intelligence** to create innovative digital solutions that merge **technology + self-knowledge** for personal and business transformation.
+Currently, I am focusing on **Web Development and Artificial Intelligence** to create innovative digital solutions that merge **technology + user-centered design** for personal and business transformation.
 
 ---
 
@@ -31,4 +38,4 @@ Currently, I am focusing on **Web Development and Artificial Intelligence** to c
 ---
 
 My approach lies at the intersection of **cutting-edge technology, applied creativity, and human-centric understanding**.  
-I’m ready to bring this combination of technical skills, business growth expertise, and human-centered vision into a company that values innovation.
+I’m ready to bring this combination of **technical skills, business growth expertise, and multicultural perspective** into a company that values innovation.
