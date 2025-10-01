@@ -6,7 +6,7 @@ Building intelligent digital solutions with a global mindset.
 Brazilian-Canadian professional open to roles in **Canada, Brazil, Europe, or remote-first teams worldwide**.  
 Fluent in **English, French, Portuguese, and Spanish**, I thrive in multicultural environments and excel at bridging communication gaps.
 
-As the founder of an international brand scaled to 40,000+ students across 26 countries, I single-handedly built full-stack digital platforms and growth strategies.  
+As the founder of an international brand scaled to 40,000+ students/clients across 26 countries, I single-handedly built full-stack digital platforms and growth strategies.  
 This entrepreneurial journey provided me with a rare 360° understanding of how technology drives business growth and user engagement.
 
 My goal is to apply this expertise within a **forward-thinking company**, contributing my blend of **technical skill, business acumen, and user-centric design** to solve complex problems and deliver impactful results.
