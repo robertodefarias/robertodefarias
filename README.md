@@ -1,4 +1,4 @@
-# Roberto de Farias | Web Development • AI • Human-Centered Design
+# Roberto de Farias | Web Development • AI Markting • Human-Centered Design
 
 # 👋 Hi, I'm Roberto de Farias
 
