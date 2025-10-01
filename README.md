@@ -1,9 +1,10 @@
-# Roberto de Farias | Web Development • AI Markting • Human-Centered Design
+# Roberto de Farias | Web Development • AI Applications • Digital Marketing
 
 # 👋 Hi, I'm Roberto de Farias
 
-I am the founder of my own international brand in the field of **Archetypes and Human Design**, which I built entirely by myself — from branding and digital strategy to the development of online platforms.  
-Thanks to this work, I’ve reached **40,000+ students and clients in 26 countries**, building a strong international reputation and delivering high-impact educational content.  
+Founder of my own international brand, scaled to 40,000+ students and clients in 26 countries.  
+I built everything myself — from branding and marketing strategy to full-stack digital platforms.  
+This experience gave me a strong foundation not only in **technology** but also in **business growth and user-centered solutions**.
 
 📌 [See client testimonials and credibility proof here](https://share.google/2tTcTwwPcdiFHXY42)
 
