@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Roberto de Farias
 
-Building intelligent digital solutions with a global mindset.  
+I build intelligent digital solutions with a global mindset.  
 Brazilian-Canadian professional open to roles in **Canada, Brazil, Europe, or remote-first teams worldwide**.  
 Fluent in **English, French, Portuguese, and Spanish**, I thrive in multicultural environments and excel at bridging communication gaps.
 
@@ -22,6 +22,7 @@ I bring a powerful combination of **hands-on technical skills, proven business a
 ---
 
 ## 💻 Technical Focus
+My technical focus combines **strong front-end experience** with **growing full-stack and AI capabilities**:
 
 - **Front-End & Platforms (Strong Experience):**  
   HTML, CSS, WordPress/Elementor — applied extensively in building and scaling real-world platforms that serve 40,000+ students and clients.
@@ -37,7 +38,6 @@ I bring a powerful combination of **hands-on technical skills, proven business a
 
 - **Data & UX (Hands-On Projects):**  
   Creating automations and developing dashboards aimed at improving user experience, business efficiency, and decision-making.
-
 
 ---
 
