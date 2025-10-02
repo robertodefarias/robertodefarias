@@ -88,7 +88,7 @@ My technical focus combines **strong front-end experience** with **growing full-
 <p align="left">
     <a href="https://www.youtube.com/@desenhohumanooriginal">
         <img 
-            alt="YouTube" 
+            alt="YouTube Channel" 
             title="Roberto de Farias - YouTube" 
             src="https://img.shields.io/badge/YouTube-Roberto%20de%20Farias-red?style=for-the-badge&logo=youtube&logoColor=white"
         />
@@ -109,11 +109,36 @@ My technical focus combines **strong front-end experience** with **growing full-
     </a>
 </p>
 
-- 🌐 [Portfolio & Projects](https://www.robertodefarias.com.br)  
-- 🌐 [Human Design Canada](https://www.human-design.ca)  
-- 🌐 [Human Design Brasil](https://www.humandesign.com.br)  
-- 📌 [Client Testimonials](https://share.google/2tTcTwwPcdiFHXY42)
- 
+<p align="left">
+    <a href="https://www.robertodefarias.com.br">
+        <img 
+            alt="Portfolio & Projects" 
+            title="My Portfolio & Projects" 
+            src="https://img.shields.io/badge/🌐-Portfolio%20%26%20Projects-0A66C2?style=for-the-badge"
+        />
+    </a>
+    <a href="https://www.human-design.ca">
+        <img 
+            alt="Human Design Canada" 
+            title="Human Design Canada" 
+            src="https://img.shields.io/badge/🌐-Human%20Design%20Canada-0A66C2?style=for-the-badge"
+        />
+    </a>
+    <a href="https://www.humandesign.com.br">
+        <img 
+            alt="Human Design Brasil" 
+            title="Human Design Brasil" 
+            src="https://img.shields.io/badge/🌐-Human%20Design%20Brasil-0A66C2?style=for-the-badge"
+        />
+    </a>
+    <a href="https://share.google/2tTcTwwPcdiFHXY42">
+        <img 
+            alt="Client Testimonials" 
+            title="View Client Testimonials" 
+            src="https://img.shields.io/badge/📌-Client%20Testimonials-FF5733?style=for-the-badge"
+        />
+    </a>
+</p>
 
 ---
 
