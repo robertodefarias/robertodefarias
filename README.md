@@ -86,25 +86,33 @@ My technical focus combines **strong front-end experience** with **growing full-
 ## 🌎 Connect With Me
 
 <p align="left">
+    <!-- YouTube Subscribers + Views -->
     <a href="https://www.youtube.com/@desenhohumanooriginal">
         <img 
-            alt="YouTube Channel" 
-            title="Roberto de Farias - YouTube" 
-            src="https://img.shields.io/badge/YouTube-Roberto%20de%20Farias-red?style=for-the-badge&logo=youtube&logoColor=white"
+            alt="YouTube Subscribers" 
+            title="YouTube Subscribers" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNjU8_pa71JhBpT5H0japmw?color=%23E05D44&label=Subscribers&logo=youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+        <img 
+            alt="YouTube Views" 
+            title="YouTube Views" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCNjU8_pa71JhBpT5H0japmw?color=%23E1AD0E&label=Views&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a>
+    <!-- GitHub -->
     <a href="https://github.com/robertodefarias">
         <img 
             alt="GitHub" 
             title="Follow me on GitHub" 
-            src="https://img.shields.io/badge/GitHub-Roberto%20de%20Farias-black?style=for-the-badge&logo=github"
+            src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/robertodefarias">
         <img 
             alt="LinkedIn" 
             title="Connect on LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Roberto%20de%20Farias-blue?style=for-the-badge&logo=linkedin"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
@@ -139,6 +147,8 @@ My technical focus combines **strong front-end experience** with **growing full-
         />
     </a>
 </p>
+
+
 
 ---
 
