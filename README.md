@@ -83,34 +83,28 @@ My technical focus combines **strong front-end experience** with **growing full-
 
 ---
 
-### 🌎 Connect With Me
+## 🌎 Connect With Me
+
 <p align="left">
-    <a href="https://www.youtube.com/@desenhohumanooriginal?sub_confirmation=1">
-        <img 
-            alt="YouTube Subscribers" 
-            title="Subscribe to my channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC7kO7Fo3VvhCeNsxTQWxZRA?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://www.youtube.com/@desenhohumanooriginal">
         <img 
-            alt="YouTube Views" 
-            title="Total YouTube Views" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC7kO7Fo3VvhCeNsxTQWxZRA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            alt="YouTube" 
+            title="Roberto de Farias - YouTube" 
+            src="https://img.shields.io/badge/YouTube-Roberto%20de%20Farias-red?style=for-the-badge&logo=youtube&logoColor=white"
         />
     </a>
     <a href="https://github.com/robertodefarias">
         <img 
-            alt="GitHub Followers" 
+            alt="GitHub" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/robertodefarias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"
+            src="https://img.shields.io/badge/GitHub-Roberto%20de%20Farias-black?style=for-the-badge&logo=github"
         />
     </a>
     <a href="https://www.linkedin.com/in/robertodefarias">
         <img 
             alt="LinkedIn" 
-            title="Connect with me on LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            title="Connect on LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-Roberto%20de%20Farias-blue?style=for-the-badge&logo=linkedin"
         />
     </a>
 </p>
@@ -118,7 +112,8 @@ My technical focus combines **strong front-end experience** with **growing full-
 - 🌐 [Portfolio & Projects](https://www.robertodefarias.com.br)  
 - 🌐 [Human Design Canada](https://www.human-design.ca)  
 - 🌐 [Human Design Brasil](https://www.humandesign.com.br)  
-- 📌 [Client Testimonials](https://share.google/2tTcTwwPcdiFHXY42)  
+- 📌 [Client Testimonials](https://share.google/2tTcTwwPcdiFHXY42)
+ 
 
 ---
 
