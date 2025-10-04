@@ -91,12 +91,12 @@ My technical focus combines **strong front-end experience** with **growing full-
         <img 
             alt="YouTube Subscribers" 
             title="YouTube Subscribers" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNjU8_pa71JhBpT5H0japmw?color=%23E05D44&label=Subscribers&logo=youtube&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNjU8_pa71JhBpT5H0japmw?color=red&label=Subscribers&logo=youtube&logoColor=auto&style=for-the-badge&labelColor=auto"
         />
         <img 
             alt="YouTube Views" 
             title="YouTube Views" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCNjU8_pa71JhBpT5H0japmw?color=%23E1AD0E&label=Views&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCNjU8_pa71JhBpT5H0japmw?color=yellow&label=Views&logo=eye&logoColor=auto&style=for-the-badge&labelColor=auto"
         />
     </a>
     <!-- GitHub -->
@@ -104,7 +104,7 @@ My technical focus combines **strong front-end experience** with **growing full-
         <img 
             alt="GitHub" 
             title="Follow me on GitHub" 
-            src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"
+            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=auto"
         />
     </a>
     <!-- LinkedIn -->
@@ -112,7 +112,7 @@ My technical focus combines **strong front-end experience** with **growing full-
         <img 
             alt="LinkedIn" 
             title="Connect on LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=auto"
         />
     </a>
 </p>
@@ -122,31 +122,32 @@ My technical focus combines **strong front-end experience** with **growing full-
         <img 
             alt="Portfolio & Projects" 
             title="My Portfolio & Projects" 
-            src="https://img.shields.io/badge/🌐-Portfolio%20%26%20Projects-0A66C2?style=for-the-badge"
+            src="https://img.shields.io/badge/🌐-Portfolio%20%26%20Projects-333?style=for-the-badge&logo=firefox&logoColor=auto"
         />
     </a>
     <a href="https://www.human-design.ca">
         <img 
             alt="Human Design Canada" 
             title="Human Design Canada" 
-            src="https://img.shields.io/badge/🌐-Human%20Design%20Canada-0A66C2?style=for-the-badge"
+            src="https://img.shields.io/badge/🌐-Human%20Design%20Canada-333?style=for-the-badge&logo=google-earth&logoColor=auto"
         />
     </a>
     <a href="https://www.humandesign.com.br">
         <img 
             alt="Human Design Brasil" 
             title="Human Design Brasil" 
-            src="https://img.shields.io/badge/🌐-Human%20Design%20Brasil-0A66C2?style=for-the-badge"
+            src="https://img.shields.io/badge/🌐-Human%20Design%20Brasil-333?style=for-the-badge&logo=google-earth&logoColor=auto"
         />
     </a>
     <a href="https://share.google/2tTcTwwPcdiFHXY42">
         <img 
             alt="Client Testimonials" 
             title="View Client Testimonials" 
-            src="https://img.shields.io/badge/📌-Client%20Testimonials-FF5733?style=for-the-badge"
+            src="https://img.shields.io/badge/📌-Client%20Testimonials-FF5733?style=for-the-badge&logoColor=auto"
         />
     </a>
 </p>
+
 
 
 
