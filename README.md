@@ -1,51 +1,90 @@
 # 👨‍💻 Roberto de Farias  
-**Full-Stack Developer & AI Enthusiast | Global Experience**
+**Full-Stack Web Developer in Progress · AI & Automation · 8+ Years Shipping Digital Products**
 
 ---
 
 ### 🌍 About Me
-I’m a **Brazilian-Canadian professional**, fluent in **English, French, Portuguese, and Spanish**, passionate about building **intelligent digital solutions with a global mindset**.  
 
-Founder of an international brand that reached **40,000+ students and clients in 26 countries**, I built the platforms, strategies, and automations entirely by myself.  
-This entrepreneurial journey gave me a **rare 360° perspective**: how to merge **technology, business growth, and user experience** to create impactful results.  
+Brazilian-Canadian developer with 8+ years of hands-on experience **building, deploying and scaling real digital platforms**.
 
-🔎 Currently focusing on **Web Development + AI Applications**, while being open to opportunities in **Canada, Brazil, Europe, or remote-first teams worldwide**.  
-✅ Fully available for **relocation across Europe**, and open to learning new languages if required.  
+I’ve designed, implemented and maintained products used by **40,000+ students and clients in 26 countries**, including:
+
+- Full websites and web applications  
+- API-powered personalization (BodyGraph, Archetypes, etc.)  
+- Intelligent WhatsApp agents and automated workflows  
+- VPS setups with Docker and self-hosted services  
+- WordPress systems at scale (performance, SEO, UX)
+
+I’m fluent in **English, French, Portuguese and Spanish** and I’m very comfortable working in multicultural, distributed teams.
+
+Currently, I’m expanding my stack into **Full-Stack Web Development + AI applications**, bridging:
+- real business needs  
+- user experience  
+- and modern software engineering.
+
+🔎 Open to opportunities in **Canada, Europe, Brazil or fully remote**.  
 
 📌 [View client testimonials & global impact](https://share.google/2tTcTwwPcdiFHXY42)
 
 ---
 
-### 🔑 Value Proposition
-I operate at the intersection of **cutting-edge technology, strategic creativity, and human-centric design**.  
-I bring a powerful combination of:  
-- **Hands-on technical skills** (front-end expertise + full-stack in progress)  
-- **Proven business acumen** (scaled platforms to 40k+ clients)  
-- A **global perspective**, thriving in multicultural environments  
+### 🔑 Value Proposition – What I Bring
+
+🧠 **1. Problem-solver with production experience**  
+I don’t just “build websites” – I design **end-to-end systems**: infrastructure, automations, user flows, APIs, performance, and AI-powered interactions.
+
+💻 **2. Technical versatility**  
+From WordPress and VPS to AI agents and API orchestration, I understand how things behave **in production**, not just in tutorials.
+
+🚀 **3. Product & growth mindset**  
+After leading international education platforms, I know how **technology + UX + content** drive real revenue and retention.
+
+🤝 **4. Ready for modern dev workflows**  
+Git, GitHub, basic CI thinking, APIs, VPS workflows – and now formalizing everything through a **full-stack bootcamp (Le Wagon)**.
 
 ---
 
-### 💻 Technical Focus
-My technical focus combines **strong front-end experience** with **growing full-stack and AI capabilities**:
+### 💻 Technical Skills
 
-- **Front-End & Platforms (Strong Experience):**  
-  HTML, CSS, WordPress/Elementor — applied extensively in building and scaling real-world platforms that serve 40,000+ students and clients.
+#### ⚡ Production Experience (8+ years)
 
-- **Programming & Full-Stack (In Progress):**  
-  Currently learning and developing projects with JavaScript, Python, React, and Node.js — expanding my skills beyond front-end to full-stack applications.
+- **Front-End & Platforms**
+  - HTML, CSS, vanilla JavaScript (front-end fundamentals)  
+  - WordPress & Elementor (custom themes, plugins, performance, SEO)  
+  - Responsive design, UX-focused pages, landing pages for conversion  
 
-- **AI & API Integration (Applied Experience):**  
-  Real implementations of BodyGraph and Archetype Mapping APIs, creating personalized digital experiences and automated workflows.
+- **Automation & Integrations**
+  - API integration (BodyGraph, Archetypes, payment and scheduling tools)  
+  - n8n, Cal.com flows, AI-driven WhatsApp agents  
+  - Webhooks, custom automations around marketing and operations  
 
-- **AI in Education (Exploration & Prototyping):**  
-  Designing prototypes for AI-driven personalization in learning and personal development contexts.
+- **Infrastructure**
+  - VPS management (Contabo)  
+  - Basic Docker usage for self-hosted services  
+  - DNS, SSL, staging/production mindset  
 
-- **Data & UX (Hands-On Projects):**  
-  Creating automations and developing dashboards aimed at improving user experience, business efficiency, and decision-making.
+#### 🛠 Growing Full-Stack Skills
+
+*(Bootcamp + independent study)*
+
+- Ruby, Ruby on Rails  
+- SQL & relational databases  
+- JavaScript (deeper)  
+- React, Node.js  
+- Git & GitHub workflows (branches, PRs, basic collaboration)  
+- Figma for UI structure and handoff  
+
+#### 🤖 Practical AI Experience
+
+- Assistants for WhatsApp and support flows  
+- Automated mapping and personalization systems  
+- Prompt engineering and LLM workflows (OpenAI)  
+- First steps into **embeddings, RAG and agents** for future projects  
 
 ---
 
 ### 📊 GitHub Stats
+
 <p>
   <img 
     align="left" 
@@ -67,6 +106,7 @@ My technical focus combines **strong front-end experience** with **growing full-
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="left">
   <img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -75,7 +115,7 @@ My technical focus combines **strong front-end experience** with **growing full-
   <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
   <img alt="WordPress" title="WordPress" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
-  <img alt="Figma" title="Figma (used for Elementor/Design)" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
+  <img alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
   <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
   <img alt="OpenAI" title="OpenAI / ChatGPT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" style="padding-right:10px;" />
@@ -86,7 +126,6 @@ My technical focus combines **strong front-end experience** with **growing full-
 ## 🌎 Connect With Me
 
 <p align="left">
-    <!-- YouTube Subscribers + Views -->
     <a href="https://www.youtube.com/@desenhohumanooriginal">
         <img 
             alt="YouTube Subscribers" 
@@ -99,7 +138,6 @@ My technical focus combines **strong front-end experience** with **growing full-
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCNjU8_pa71JhBpT5H0japmw?color=yellow&label=Views&logo=eye&logoColor=auto&style=for-the-badge&labelColor=auto"
         />
     </a>
-    <!-- GitHub -->
     <a href="https://github.com/robertodefarias">
         <img 
             alt="GitHub" 
@@ -107,7 +145,6 @@ My technical focus combines **strong front-end experience** with **growing full-
             src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=auto"
         />
     </a>
-    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/robertodefarias">
         <img 
             alt="LinkedIn" 
@@ -148,9 +185,6 @@ My technical focus combines **strong front-end experience** with **growing full-
     </a>
 </p>
 
-
-
-
 ---
 
-✨ *"I don’t just build solutions — I craft experiences that transform users and grow businesses."*  
+✨ *"I don’t just build solutions — I craft experiences that transform users and grow businesses."*
