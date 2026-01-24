@@ -25,7 +25,7 @@ Currently, I lead marketing and product strategy within my own Neuro Marketing A
 
 🔎 Open to opportunities in **Canada, Europe, Brazil or fully remote**.  
 
-📌 [View client testimonials & global impact](https://share.google/2tTcTwwPcdiFHXY42)
+📌 [Google Business reviews from 26 countries](https://share.google/2tTcTwwPcdiFHXY42) 
 
 ---
 
