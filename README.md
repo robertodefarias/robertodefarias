@@ -18,7 +18,7 @@ I’ve designed, implemented and maintained digital products used by **40,000+ s
 
 I’m fluent in **English, French, Portuguese and Spanish** and I’m very comfortable working in multicultural, distributed teams.
 
-Currently, I’m a Marketing Director of my Neuro Marketing Agency, updating and expanding my stack into **Full-Stack Web Development + AI applications**, bridging:
+Currently, I lead marketing and product strategy within my own Neuro Marketing Agency, while expanding my hands-on role into full-stack and AI engineering, bridging:
 - real business needs  
 - user experience  
 - and modern software engineering.
