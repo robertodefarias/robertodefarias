@@ -25,7 +25,7 @@ Currently, I lead marketing and product strategy within my own Neuro Marketing A
 
 🔎 Open to opportunities in **Canada, Europe, Brazil or fully remote**.  
 
-📌 [Google Business reviews from 26 countries](https://share.google/2tTcTwwPcdiFHXY42) 
+📌 [View client testimonials & global impact](https://share.google/2tTcTwwPcdiFHXY42)
 
 ---
 
@@ -51,7 +51,7 @@ From WordPress and VPS to AI agents and API orchestration, I understand how thin
 After leading international education platforms, I know how **technology + UX + content** drive real revenue and retention.
 
 🤝 **4. Ready for modern dev workflows**  
-Git, GitHub, basic CI thinking, APIs, VPS workflows – and now formalizing everything through a **full-stack bootcamp (Le Wagon)**.
+Git, GitHub, APIs, VPS workflows – and now formalizing everything through a **full-stack bootcamp (Le Wagon)**.
 
 ---
 
@@ -60,119 +60,100 @@ Git, GitHub, basic CI thinking, APIs, VPS workflows – and now formalizing ever
 #### ⚡ Production-Honed Skills (8+ years)
 
 - **Front-End & Platforms**
-  - HTML, CSS, vanilla JavaScript (front-end fundamentals)  
+  - HTML, CSS, vanilla JavaScript  
   - WordPress & Elementor (custom themes, plugins, performance, SEO)  
-  - Responsive design, UX-focused pages, landing pages for conversion  
+  - UX-focused pages and high-conversion landing pages  
 
 - **Automation & Integrations**
-  - API integration (BodyGraph, Archetypes, payment and scheduling tools)  
-  - n8n, Cal.com flows, AI-driven WhatsApp agents  
-  - Webhooks, custom automations around marketing and operations  
+  - API integrations (BodyGraph, Archetypes, payments, scheduling)  
+  - n8n workflows, Cal.com automations  
+  - AI-driven WhatsApp agents and webhooks  
 
 - **Infrastructure**
   - VPS management (Contabo)  
   - Basic Docker usage for self-hosted services  
-  - DNS, SSL, staging/production mindset  
+  - DNS, SSL, staging vs production mindset  
 
-#### 🛠 Growing Full-Stack Skills
+---
 
-*(Le Wagon Bootcamp + independent study)*
+### 🎓 Formal Education — Le Wagon (Full-Stack + AI Bootcamp)
 
+**Intensive 9-week program focused on modern full-stack development and AI-powered applications**, using the same technologies that power startups and tools like ChatGPT.
+
+**Core competencies developed:**
+- Back-end development and relational databases  
+- Front-end development for interactive web applications  
+- Building and integrating AI features into web products  
+- AI-assisted programming with production-quality standards  
+- Team-based development and real-world project delivery  
+
+**Technologies and tools covered:**
 - Ruby, Ruby on Rails  
-- SQL & relational databases  
-- JavaScript (deeper)  
-- React, Node.js  
-- Git & GitHub workflows (branches, PRs, basic collaboration)  
-- Figma for UI structure and handoff  
+- JavaScript  
+- SQL  
+- HTML, CSS, Bootstrap  
+- Git & GitHub  
+- Figma  
+- OpenAI APIs  
+- WebSockets  
+- Deployment (Heroku)
 
-#### 🤖 Practical AI Experience
+**Hands-on outcomes:**
+- Full web applications from database to UI  
+- Authentication systems (signup, login, user management)  
+- API integrations and external services  
+- AI-powered assistants and autonomous workflows  
+- Live deployment on real domains  
+- Final team project (SaaS, real-time apps, or AI-driven products)
 
-- Assistants for WhatsApp and support flows  
-- Automated mapping and personalization systems  
+**Career preparation:**
+- Technical interview training  
+- Personal branding for tech roles  
+- Access to Le Wagon’s global hiring partner network  
+- Lifetime access to course materials  
+
+---
+
+### 🔁 Self-Directed Studies (Reinforcement & Practice)
+
+Alongside the bootcamp, I continuously reinforce my learning through **independent, hands-on study**, focusing on practical application and deeper understanding.
+
+**Focus areas include:**
+- Core programming fundamentals (variables, functions, data structures)  
+- Command line proficiency and developer tooling  
+- Writing scripts for data extraction and automation  
+- Web scraping and API consumption  
+- SQL practice with real datasets  
+- Code review and refactoring of AI-assisted output  
+
+This self-directed work ensures that concepts learned in formal training are **internalized, tested, and applied in real scenarios**, not just academically understood.
+
+---
+
+### 🤖 Practical AI Experience
+
+- AI-powered assistants for WhatsApp and support workflows  
+- Automated personalization and mapping systems  
 - Prompt engineering and LLM workflows (OpenAI)  
-- First steps into **embeddings, RAG and agents** for future projects  
+- First steps into **embeddings, RAG, and agent-based systems**  
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-  <img alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-  <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-  <img alt="Ruby" title="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
-  <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-  <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-  <img alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  <img alt="WordPress" title="WordPress" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />
-  <img alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
-  <img alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-  <img alt="OpenAI" title="OpenAI / ChatGPT" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" style="padding-right:10px;" />
-</p>
-
----
-
-## 🌎 Connect With Me
-
-<p align="left">
-    <a href="https://www.youtube.com/@desenhohumanooriginal">
-        <img 
-            alt="YouTube Subscribers" 
-            title="YouTube Subscribers" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCNjU8_pa71JhBpT5H0japmw?color=red&label=Subscribers&logo=youtube&logoColor=auto&style=for-the-badge&labelColor=auto"
-        />
-        <img 
-            alt="YouTube Views" 
-            title="YouTube Views" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCNjU8_pa71JhBpT5H0japmw?color=yellow&label=Views&logo=eye&logoColor=auto&style=for-the-badge&labelColor=auto"
-        />
-    </a>
-    <a href="https://github.com/robertodefarias">
-        <img 
-            alt="GitHub" 
-            title="Follow me on GitHub" 
-            src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=auto"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/robertodefarias">
-        <img 
-            alt="LinkedIn" 
-            title="Connect on LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=auto"
-        />
-    </a>
-</p>
-
-<p align="left">
-    <a href="https://www.robertodefarias.com.br">
-        <img 
-            alt="Portfolio & Projects" 
-            title="My Portfolio & Projects" 
-            src="https://img.shields.io/badge/🌐-Portfolio%20%26%20Projects-333?style=for-the-badge&logo=firefox&logoColor=auto"
-        />
-    </a>
-    <a href="https://www.human-design.ca">
-        <img 
-            alt="Human Design Canada" 
-            title="Human Design Canada" 
-            src="https://img.shields.io/badge/🌐-Human%20Design%20Canada-333?style=for-the-badge&logo=google-earth&logoColor=auto"
-        />
-    </a>
-    <a href="https://www.humandesign.com.br">
-        <img 
-            alt="Human Design Brasil" 
-            title="Human Design Brasil" 
-            src="https://img.shields.io/badge/🌐-Human%20Design%20Brasil-333?style=for-the-badge&logo=google-earth&logoColor=auto"
-        />
-    </a>
-    <a href="https://share.google/2tTcTwwPcdiFHXY42">
-        <img 
-            alt="Client Testimonials" 
-            title="View Client Testimonials" 
-            src="https://img.shields.io/badge/📌-Client%20Testimonials-FF5733?style=for-the-badge&logoColor=auto"
-        />
-    </a>
+  <img alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="WordPress" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+  <img alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="OpenAI" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" />
 </p>
 
 ---
