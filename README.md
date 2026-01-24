@@ -96,32 +96,11 @@ Git, GitHub, basic CI thinking, APIs, VPS workflows – and now formalizing ever
 
 ### 📊 GitHub Stats
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=robertodefarias&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues"
-  />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertodefarias&theme=tokyonight&layout=compact&langs_count=6"
-  />
-</p>
-
-<br clear="both"/>
-
----
-
-### 🛠️ Languages & Tools
-
 <p align="left">
   <img alt="HTML5" title="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
   <img alt="CSS3" title="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
   <img alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+  <img alt="Ruby" title="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />
   <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
   <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   <img alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
