@@ -42,7 +42,7 @@ This leadership background deeply informs how I build digital products today: al
 ### 🔑 Value Proposition – What I Bring
 
 🧠 **1. Problem-solver with production experience**  
-I don’t just “build websites” – I design **end-to-end systems**: infrastructure, automations, user flows, APIs, performance, and AI-powered interactions.
+I don’t just “build websites or create custom logos” – I design **end-to-end systems**: infrastructure, automations, user flows, APIs, performance, and AI-powered interactions.
 
 💻 **2. Technical versatility**  
 From WordPress and VPS to AI agents and API orchestration, I understand how things behave **in production**, not just in tutorials.
