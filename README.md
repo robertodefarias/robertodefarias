@@ -7,9 +7,9 @@
 
 Brazilian-Canadian developer with 8+ years of hands-on experience **building, deploying and scaling real digital platforms**.
 
-I’ve designed, implemented and maintained digital products used by **40,000+ students and clients in 26 countries**, including:
+I’ve designed, implementeded and maintained digital products used by **40,000+ students and clients in 26 countries**, including:
 
-- Branding 
+- Branding  
 - Full websites and web applications  
 - API-powered personalization (BodyGraph, Archetypes, etc.)  
 - Intelligent WhatsApp agents and automated workflows  
@@ -26,6 +26,16 @@ Currently, I lead marketing and product strategy within my own Neuro Marketing A
 🔎 Open to opportunities in **Canada, Europe, Brazil or fully remote**.  
 
 📌 [View client testimonials & global impact](https://share.google/2tTcTwwPcdiFHXY42)
+
+---
+
+### 🧭 Leadership & Product Background
+
+Over the last years, my most valuable and defining experience has been **leading and scaling a Neuro Marketing Agency**, which reached **26 countries in 26 months of active operation**, earning **trust, credibility and long-term client relationships** in highly competitive markets.
+
+These results were not accidental. They were made possible through the **same strategic, technical and psychological frameworks** that I design and apply for my own clients — systems that connect **technology, user behavior, automation, positioning and experience design** to drive sustainable growth.
+
+This leadership background deeply informs how I build digital products today: always with a **business-first mindset**, production realism, and a strong focus on scalability, reliability and user impact.
 
 ---
 
@@ -47,13 +57,7 @@ Git, GitHub, basic CI thinking, APIs, VPS workflows – and now formalizing ever
 
 ### 💻 Technical Skills
 
-#### ⚡ Production Experience (8+ years)
-
-Over the last years, my most valuable and defining experience has been **leading and scaling a Neuro Marketing Agency**, which reached **26 countries in 26 months of active operation**, earning **trust, credibility and long-term client relationships** in highly competitive markets.
-
-These results were not accidental. They were made possible through the **same strategic, technical and psychological frameworks** that I design and apply for my own clients — systems that connect **technology, user behavior, automation, positioning and experience design** to drive sustainable growth.
-
-This leadership experience deeply informs how I build digital products today: always with a **business-first mindset**, production realism, and a strong focus on scalability, reliability and user impact.
+#### ⚡ Production-Honed Skills (8+ years)
 
 - **Front-End & Platforms**
   - HTML, CSS, vanilla JavaScript (front-end fundamentals)  
@@ -68,7 +72,7 @@ This leadership experience deeply informs how I build digital products today: al
 - **Infrastructure**
   - VPS management (Contabo)  
   - Basic Docker usage for self-hosted services  
-  - DNS, SSL, staging/production mindset    
+  - DNS, SSL, staging/production mindset  
 
 #### 🛠 Growing Full-Stack Skills
 
