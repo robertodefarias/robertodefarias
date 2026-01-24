@@ -7,8 +7,9 @@
 
 Brazilian-Canadian developer with 8+ years of hands-on experience **building, deploying and scaling real digital platforms**.
 
-I’ve designed, implemented and maintained products used by **40,000+ students and clients in 26 countries**, including:
+I’ve designed, implemented and maintained digital products used by **40,000+ students and clients in 26 countries**, including:
 
+- Branding 
 - Full websites and web applications  
 - API-powered personalization (BodyGraph, Archetypes, etc.)  
 - Intelligent WhatsApp agents and automated workflows  
@@ -17,7 +18,7 @@ I’ve designed, implemented and maintained products used by **40,000+ students 
 
 I’m fluent in **English, French, Portuguese and Spanish** and I’m very comfortable working in multicultural, distributed teams.
 
-Currently, I’m expanding my stack into **Full-Stack Web Development + AI applications**, bridging:
+Currently, I’m a Marketing Director of my Neuro Marketing Agency, updating and expanding my stack into **Full-Stack Web Development + AI applications**, bridging:
 - real business needs  
 - user experience  
 - and modern software engineering.
@@ -48,6 +49,12 @@ Git, GitHub, basic CI thinking, APIs, VPS workflows – and now formalizing ever
 
 #### ⚡ Production Experience (8+ years)
 
+Over the last years, my most valuable and defining experience has been **leading and scaling a Neuro Marketing Agency**, which reached **26 countries in 26 months of active operation**, earning **trust, credibility and long-term client relationships** in highly competitive markets.
+
+These results were not accidental. They were made possible through the **same strategic, technical and psychological frameworks** that I design and apply for my own clients — systems that connect **technology, user behavior, automation, positioning and experience design** to drive sustainable growth.
+
+This leadership experience deeply informs how I build digital products today: always with a **business-first mindset**, production realism, and a strong focus on scalability, reliability and user impact.
+
 - **Front-End & Platforms**
   - HTML, CSS, vanilla JavaScript (front-end fundamentals)  
   - WordPress & Elementor (custom themes, plugins, performance, SEO)  
@@ -61,11 +68,11 @@ Git, GitHub, basic CI thinking, APIs, VPS workflows – and now formalizing ever
 - **Infrastructure**
   - VPS management (Contabo)  
   - Basic Docker usage for self-hosted services  
-  - DNS, SSL, staging/production mindset  
+  - DNS, SSL, staging/production mindset    
 
 #### 🛠 Growing Full-Stack Skills
 
-*(Bootcamp + independent study)*
+*(Le Wagon Bootcamp + independent study)*
 
 - Ruby, Ruby on Rails  
 - SQL & relational databases  
