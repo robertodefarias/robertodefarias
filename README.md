@@ -7,7 +7,7 @@
 
 Brazilian-Canadian developer with 8+ years of hands-on experience **building, deploying and scaling real digital platforms**.
 
-I’ve designed, implementeded and maintained digital products used by **40,000+ students and clients in 26 countries**, including:
+I’ve designed, implementeded, and maintained digital products used by **40,000+ students and clients in 26 countries**, including:
 
 - Branding  
 - Full websites and web applications  
