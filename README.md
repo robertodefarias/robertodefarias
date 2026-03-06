@@ -33,13 +33,19 @@
 <h2>🧭 Background</h2>
 
 <p>
-My career lives at the intersection of business, communication, and technology.
-I've developed visual identities, digital platforms, and marketing systems for beauty, fashion, education, and consulting.
+My career lives at the intersection of business, communication, and technology. For many years I worked as a brand strategist and creative consultant, helping companies develop visual identities, brand positioning, and communication systems. My work has included projects across beauty, fashion, education, and consulting — often collaborating with well-known brands and personalities from the Brazilian industry.
 </p>
 
 <p>
-<strong>Hands-on with WordPress & Elementor</strong> for years — building sites, landing pages, and automated user journeys.
-Not a senior engineer, but someone who understands how technology serves brand growth.
+A significant part of this work grew through referrals and long-term relationships. In many cases, clients arrived through recommendations from previous projects, which allowed me to build a portfolio grounded in trust, reputation, and real market impact.
+</p>
+
+<p>
+Alongside brand strategy, I spent years building and managing digital platforms using <strong>WordPress and Elementor</strong> — creating websites, landing pages, and automated user journeys designed to support brand growth and communication.
+</p>
+
+<p>
+After working extensively at the intersection of branding and digital platforms, I decided to deepen my technical capabilities and move further into the world of software development. My goal is to integrate programming and modern development practices into the work I already do — creating more powerful, scalable, and intelligent digital experiences for clients, teams, and future employers.
 </p>
 
 <hr>
