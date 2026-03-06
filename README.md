@@ -5,7 +5,11 @@
   <a href="mailto:contato@robertodefarias.com.br">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.robertodefarias.com.br">
+    <img src="https://img.shields.io/badge/-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
+
 <h1 align="center">👨‍💻 Roberto de Farias</h1>
 
 <p align="center">
@@ -46,7 +50,7 @@ Not a senior engineer, but someone who understands how technology serves brand g
   <li><strong>Brand + business vision</strong> — experience in strategy, neuromarketing, and communication</li>
   <li><strong>WordPress expertise</strong> — architecture, UX, conversion-focused builds</li>
   <li><strong>Entrepreneurial mindset</strong> — built and scaled a global education brand</li>
-  <li><strong>Multilingual</strong> — English, French, Portuguese, Spanish</li>
+  <li><strong>Multilingual</strong> — English · Fluent | French · Fluent | Portuguese · Native | Spanish · Advanced</li>
   <li><strong>Honest technical evolution</strong> — strengthening full-stack and AI skills</li>
 </ul>
 
@@ -75,11 +79,6 @@ Not a senior engineer, but someone who understands how technology serves brand g
   <img alt="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Figma" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img alt="WordPress" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
-</p>
-
-<p>
-  <strong>Languages:</strong> English · Fluent | French · Fluent | Portuguese · Native | Spanish · Advanced
 </p>
 
 <p>
