@@ -1,19 +1,11 @@
-<!-- 1. Badge de contato no topo (opcional) -->
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/robertodefarias/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu@email.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:contato@robertodefarias.com.br">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-<!-- 2. Espaçamento nos ícones (já funciona, mas pode adicionar &nbsp; ) -->
-<img alt="HTML5" width="35" src="..." />&nbsp;&nbsp;
-
-<!-- 3. Remover WordPress duplicado em Tools (já tem no front-end) -->
-<!-- Em Tools, pode substituir por algo como: -->
-<img alt="VS Code" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <h1 align="center">👨‍💻 Roberto de Farias</h1>
 
 <p align="center">
