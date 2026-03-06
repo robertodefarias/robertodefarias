@@ -33,7 +33,7 @@
 <h2>🧭 Background</h2>
 
 <p>
-My career lives at the intersection of business, communication, and technology. For many years I worked as a brand strategist and creative consultant, helping companies develop visual identities, brand positioning, and communication systems. My work has included projects across beauty, fashion, education, and consulting — often collaborating with well-known brands and personalities from the Brazilian industry.
+My career lives at the intersection of business, communication, and technology. For many years I worked as a brand strategist and creative consultant, helping companies develop visual identities, brand positioning, and communication systems. My work has included projects across beauty, fashion, education, and consulting — often collaborating with well-known brands and personalities from the Brazilian industry, while also reaching international audiences in 26 countries, including artistic and cultural projects in Europe, particularly in Paris.
 </p>
 
 <p>
