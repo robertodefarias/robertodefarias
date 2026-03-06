@@ -1,5 +1,5 @@
 # 👨‍💻 Roberto de Farias  
-**Marketing Director - Full-Stack Web Developer in Progress · AI & Automation · 8+ Years Shipping Digital Products**
+**Marketing Director → Full-Stack Web Developer (in progress) · AI & Automation · 8+ Years Shipping Digital Products**
 
 ---
 
