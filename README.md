@@ -51,12 +51,12 @@ Through my work, I have helped develop:
 </p>
 
 <ul>
-  <li>Visual identities and brand systems</li>
-  <li>Marketing materials for print and digital campaigns</li>
-  <li>Creative direction for beauty, editorial, and fashion-related projects</li>
-  <li>Strategic communication for businesses in different sectors</li>
-  <li>WordPress-based websites and landing pages focused on UX and conversion</li>
-  <li>Automated user journeys and digital processes to support lead generation and customer relationships</li>
+<li>Visual identities and brand systems</li>
+<li>Marketing materials for print and digital campaigns</li>
+<li>Creative direction for beauty, editorial, and fashion-related projects</li>
+<li>Strategic communication for businesses in different sectors</li>
+<li>WordPress-based websites and landing pages focused on UX and conversion</li>
+<li>Automated user journeys and digital processes to support lead generation and customer relationships</li>
 </ul>
 
 <p>
@@ -97,26 +97,28 @@ I am currently strengthening my technical skills in programming, full-stack deve
 <h2>💻 Technical & Digital Experience</h2>
 
 <h3>✅ Strong Practical Experience</h3>
+
 <ul>
-  <li>WordPress</li>
-  <li>Elementor</li>
-  <li>Landing pages and conversion-focused page structures</li>
-  <li>Content architecture and user journey design</li>
-  <li>Brand strategy and digital communication systems</li>
-  <li>Marketing automation tools and workflow thinking</li>
-  <li>API-based integrations for personalized digital experiences</li>
-  <li>SEO-oriented content and digital platform organization</li>
+<li>WordPress</li>
+<li>Elementor</li>
+<li>Landing pages and conversion-focused page structures</li>
+<li>Content architecture and user journey design</li>
+<li>Brand strategy and digital communication systems</li>
+<li>Marketing automation tools and workflow thinking</li>
+<li>API-based integrations for personalized digital experiences</li>
+<li>SEO-oriented content and digital platform organization</li>
 </ul>
 
 <h3>📚 Currently Developing</h3>
+
 <ul>
-  <li>JavaScript</li>
-  <li>Python</li>
-  <li>React</li>
-  <li>Node.js</li>
-  <li>Git and modern developer workflows</li>
-  <li>Full-stack application logic</li>
-  <li>AI integrations and automation systems</li>
+<li>JavaScript</li>
+<li>Python</li>
+<li>React</li>
+<li>Node.js</li>
+<li>Git and modern developer workflows</li>
+<li>Full-stack application logic</li>
+<li>AI integrations and automation systems</li>
 </ul>
 
 <p>
@@ -131,55 +133,62 @@ My technical progression is focused on becoming more capable inside modern produ
 I am currently expanding my technical foundation through intensive training in modern web development and AI-powered applications.
 </p>
 
-<p>
-This includes practical study and project work involving:
-</p>
-
 <ul>
-  <li>Back-end logic and relational databases</li>
-  <li>Front-end development for interactive web applications</li>
-  <li>Git and collaborative development workflows</li>
-  <li>APIs and external service integrations</li>
-  <li>AI-assisted development and product prototyping</li>
-  <li>Real-world application structure from database to user interface</li>
+<li>Back-end logic and relational databases</li>
+<li>Front-end development for interactive web applications</li>
+<li>Git and collaborative development workflows</li>
+<li>APIs and external service integrations</li>
+<li>AI-assisted development and product prototyping</li>
+<li>Real-world application structure from database to user interface</li>
 </ul>
-
-<p>
-My goal is not to overstate this journey, but to show that I am actively building real technical capability on top of an already solid background in branding, digital strategy, user behavior, and platform management.
-</p>
 
 <hr>
 
 <h2>🤖 AI & Automation</h2>
 
 <ul>
-  <li>AI-assisted workflows for support and communication</li>
-  <li>Prompt design and structured use of LLM tools</li>
-  <li>Automation thinking for lead handling and user journeys</li>
-  <li>Prototype exploration involving personalization systems and API-based experiences</li>
+<li>AI-assisted workflows for support and communication</li>
+<li>Prompt design and structured use of LLM tools</li>
+<li>Automation thinking for lead handling and user journeys</li>
+<li>Prototype exploration involving personalization systems and API-based experiences</li>
 </ul>
-
-<p>
-My experience in this space is practical and exploratory, with a strong focus on how AI can improve user experience, communication, and operational efficiency.
-</p>
 
 <hr>
 
 <h2>🛠️ Languages & Tools</h2>
 
-<p align="left"> <img alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img alt="WordPress" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /> <img alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img alt="OpenAI" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" /> </p>
+<h3>Front-end</h3>
 
-<p>
-<strong>Languages:</strong> English, French, Portuguese, Spanish
+<p align="left">
+<img alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 </p>
 
-<p>
-<strong>Platforms &amp; Tools:</strong> WordPress, Elementor, Figma, Git, GitHub, marketing automation tools, API-based tools, AI platforms
+<h3>Back-end</h3>
+
+<p align="left">
+<img alt="Ruby" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+<img alt="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </p>
 
-<p>
-<strong>Currently Learning:</strong> JavaScript, Python, React, Node.js, full-stack workflows
+<h3>Tools & Design</h3>
+
+<p align="left">
+<img alt="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img alt="OpenAI" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg"/>
 </p>
+
+<p><em>Last updated: March 2026</em></p>
+
+<p><strong>Languages:</strong> English, French, Portuguese, Spanish</p>
+
+<p><strong>Platforms & Tools:</strong> WordPress, Elementor, Figma, Git, GitHub, marketing automation tools, API-based tools, AI platforms</p>
+
+<p><strong>Currently Learning:</strong> JavaScript, Python, React, Node.js, full-stack workflows</p>
 
 <hr>
 
