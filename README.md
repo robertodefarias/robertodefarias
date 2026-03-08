@@ -99,6 +99,8 @@ After working extensively at the intersection of branding and digital platforms,
 Through my education brand, I built digital systems that served students in 26 countries, managed content platforms, automated lead journeys, and maintained conversion-focused WordPress architectures.
 </p>
 
+📌 View client testimonials & global impact : https://share.google/PUeM4GSVWzP42t1DK
+
 <hr>
 
 <h2>🤖 AI Exploration</h2>
